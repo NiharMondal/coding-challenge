@@ -1,5 +1,5 @@
 import { Products } from "@/views/products";
 
-export default function ProductsRoot() {
-  return <Products />;
+export default function ProductsPage() {
+	return <Products />;
 }
